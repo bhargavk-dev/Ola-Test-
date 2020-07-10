@@ -13,3 +13,6 @@ vm(NODE_NAME, NODE_TMPL) {
       sh "echo Digest: " + image.getImageDigest(params.image)
    }
 }
+
+
+fcsduycgkadjhbc
